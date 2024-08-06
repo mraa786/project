@@ -1,0 +1,49 @@
+
+<div class="swiper-wrapper"> 
+    <div class="swiper-slide">
+        <div class="blog-card">
+            <img src="/blog img/Image.png" alt="Image 1">
+            <div class="blog-card-content">
+                <h4>The Amazing Difference a Year of Travelling...</h4>
+                <p>July 27, 2021</p>
+            </div>
+        </div>
+    </div>
+    <div class="swiper-slide">
+            <div class="blog-card">
+                <img src="/blog img/Image (1).png" alt="Image 2">
+                <div class="blog-card-content">
+                    <h4>Travel far enough, you meet yourself.</h4>
+                    <p>July 27, 2021</p>
+                </div>
+            </div> 
+        </div>
+        <div class="swiper-slide">
+            <div class="blog-card">
+                <img src="/blog img/Image (2).png" alt="Image 3">
+                <div class="blog-card-content">
+                    <h4>How to Save Money While Visiting Africa.</h4>
+                    <p>July 27, 2021</p>
+                </div>
+            </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="blog-card">
+                <img src="/blog img/Image (3).png" alt="Image 4">
+                <div class="blog-card-content">
+                    <h4>Reflections on 5 Months of Travel: Time to Hang</h4>
+                    <p>July 27, 2021</p>
+                </div>
+            </div>
+        </div>
+            
+            
+            <!-- Add Pagination -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+</div>
